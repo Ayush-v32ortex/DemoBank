@@ -10,19 +10,6 @@ The application is a Frontend project prepared for the Online Banking Rest API. 
 
 Users can register, log in, view their account history, open new accounts, make transfers between accounts, deposit money, withdraw money, and make payments. Additionally, a self-updating chart has been prepared for users to view their account flows. In short, the components are constantly in communication with the backend, ensuring seamless interaction.
 
-If you want to watch the project video you can visit my LinkedIn account:
-
-My LinkedIn Account [LinkedIn]( https://www.linkedin.com/feed/)
-
-
-
-
-If you want to learn more about React and Redux, you can check out my article on React and Redux:
-
-React and Redux Article [My Article]( https://medium.com/@berkindundar2001/react-nedir-ve-react-redux-neden-%C3%B6nemlidir-4c846d7a5124)
-
-
-Feel free to ask if you have any further questions or need additional information!
 
 
 
